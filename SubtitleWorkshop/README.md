@@ -1,5 +1,5 @@
-# Subtitle Workshop介绍
-**谷歌翻译，[Original page](https://github.com/URUWorks/SubtitleWorkshop)**
+# Subtitle Workshop 介绍
+**[Original page](https://github.com/URUWorks/SubtitleWorkshop)**
 
 适用于Windows、MacOS和Linux的最完整、最高效、最方便的开源字幕编辑工具正式回归！
 
@@ -11,15 +11,33 @@ Subtitle Workshop让字幕创建/编辑/转换任务几乎成为一种乐趣； 
 
 初学者、专家或粉丝的最佳选择。 
 
-试一试，你会忘记其余的！
+**试一试，你会忘记其余的！**
 
-# 让我们仔细看看
+# 让我们预览一下吧！
 
 ### Windows
-![win](https://uruworks.net/img/sw_win11.png)
+![win](https://uruworks.net/img/sw_win3.png)
 
 ### MacOS
-![mac](https://uruworks.net/img/sw_macos1.png)
+![mac](https://uruworks.net/img/sw_macos2.png)
 
 ### Linux Mint
 ![lnx](https://uruworks.net/img/sw_linux1.png)
+
+# 编译所需的包
+
+- Indy 10
+- LCLExtensions
+- pl_OpenGL
+- VirtualTreeView V5
+- UWLazarus
+
+# 帮助我们很容易
+
+在大约 20 年的 URUWorks 项目开发过程中，我们没有得到任何经济帮助。 如今，这些程序的开发需要我们时间、互联网和软件成本。 我们坚信免费软件，认为所有供个人使用的软件都必须是免费的。 正是出于这个原因，ViPlay 和 Subtitle Workshop 永远不会是共享软件程序，并且总是能够被喜欢它们或发现它们有用的每个人使用。
+
+我们希望您下载我们的软件并进行测试。 如果您喜欢它并认为我们应该得到您的帮助来不断改进这些程序，如果您捐赠，我们将非常感激。
+
+我们会记住您，捐款完全是自愿的，如果您无力捐赠，您将不会得到更少的支持或更少的考虑。
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=uruworks@gmail.com&lc=US&item_name=Donate+to+URUWorks+Subtitle+Workshop&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
